@@ -8,6 +8,8 @@
 ![Tests](https://img.shields.io/badge/API%20tests-27%20passing-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+**Live demo:** [pms-web-balaji.onrender.com](https://pms-web-balaji.onrender.com) — click "Fill demo credentials" on the login page. Free-tier hosting: the first visit after idle can take up to a minute to wake, and the demo database reseeds on every restart.
+
 ## What's inside
 
 - **Projects → Blocks → Units** hierarchy — 3 seeded Chennai projects, 328 units with type / floor / facing / area / price
