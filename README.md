@@ -3,7 +3,7 @@
 > Real-estate inventory with a color-coded availability grid, a race-safe booking state machine, auto-expiring holds, and a Leaflet map — the domain I work in professionally, rebuilt as an open product.
 
 ![React 19](https://img.shields.io/badge/React-19-087EA4?logo=react&logoColor=white)
-![Laravel 12](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white)
+![Laravel 13](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![Tests](https://img.shields.io/badge/API%20tests-27%20passing-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -22,7 +22,7 @@
 
 ## Stack
 
-React 19 · TypeScript (strict) · Vite · Tailwind CSS v4 · React Leaflet — Laravel 12 · PHP 8.4 · SQLite/PostgreSQL · PHPUnit (27 tests)
+React 19 · TypeScript (strict) · Vite · Tailwind CSS v4 · React Leaflet — Laravel 13 · PHP 8.4 · SQLite/PostgreSQL · PHPUnit (27 tests)
 
 ## Quick start
 
